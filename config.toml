@@ -1,4 +1,4 @@
-baseURL = 'http://enocht14/github.io/blogsite/'
+baseURL = 'https://enocht14/github.io/blogsite/'
 languageCode = 'en-us'
 title = 'Enochs Blog'
 theme = 'congo'
