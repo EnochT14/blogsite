@@ -6,4 +6,4 @@ title: About
 
 
 
-Do not hesitate to [contact me](/contact/) if you have any questions or inquiries.
+Do not hesitate to [contact me](/blogsite/contact/) if you have any questions or inquiries.
