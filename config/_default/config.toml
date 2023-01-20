@@ -3,7 +3,7 @@
 # https://jpanther.github.io/congo/docs/getting-started/
 
 theme = "congo"
-# baseURL = "https://.com/"
+# baseURL = "https://ecobbina.me/blogsite/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
