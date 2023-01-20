@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+displayName = ":uk:"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Enoch Cobbina"
+# logo = "img/logo.jpg"
+# description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+# copyright = "&copy; 2022 Congo contributors"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Enoch Cobbina"
+  image = "img/author.png"
+  # headline = "Not your ordinary theme!"
+  # bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"
+  links = [
+    { twitter = "https://twitter.com/encobb1" },
+    { github = "https://github.com/EnochT14" },
+  #   { facebook = "https://facebook.com/" },
+    { linkedin = "https://www.linkedin.com/in/enoch-cobbina" },
+  #   { youtube = "https://youtube.com/" },
+  ]
