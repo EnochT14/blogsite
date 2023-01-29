@@ -14,6 +14,6 @@ When I find the time, I [code](https://github.com/EnochT14) in R and share it on
 
 <br>
 
-{{< button href="https://ecobbina.me/blogsite/about/" target="_self" >}}
-Learn more
+{{< button href="https://ecobbina.me/blogsite/cv/" target="_self" >}}
+Curriculum Vitae (CV)
 {{< /button >}}
