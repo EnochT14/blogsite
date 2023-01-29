@@ -5,11 +5,6 @@ date: 2023-01-29
 showTableOfContents: true
 ---
 
-{{< button href="/cv.pdf" target="_self" >}}
-Download CV
-{{< /button >}}
-
-<br>
 
 ## Summary
 
@@ -49,3 +44,9 @@ I also completed a Google certification course in Data Analytics in December 202
 - Excellent communication and time management skills.
 - Moderate knowledge of Microsoft Azure Cloud Suite.
 - Great work ethic and problem-solving skills.
+
+<br>
+
+{{< button href="/cv.pdf" target="_self" >}}
+Download CV
+{{< /button >}}
