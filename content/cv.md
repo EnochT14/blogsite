@@ -16,8 +16,8 @@ I also completed a Google certification course in Data Analytics in December 202
 ## Education
 
 - (2019 -- Present) **BSc in Information & Communication Technology** -- Ghana Institute of Management and Public Administration, Accra, Ghana
-  + GPA: 3.5/4.0
-  + Relevant Coursework: Software Engineering, Advanced Database Design, Data Warehousing & Mining, Object-Oriented Programming, Project Management, Advanced Data Communications & Networks.
+  + GPA: 3.65/4.0
+  + Relevant Coursework: Software Engineering, IT Auditing,  Computer & Information Security, Advanced Database Design, Data Warehousing & Mining, Object-Oriented Programming, Project Management, Advanced Data Communications & Networks.
 
 - (September, 2014 -- April, 2017) **Diploma in General Arts** -- Mfantsipim Senior High School
   + Clubs & Societies: President - Photography Club, Robotics Club, Mfantsipim Rugby Team.
@@ -32,11 +32,12 @@ I also completed a Google certification course in Data Analytics in December 202
 
 ### Software
 
-- R (RStudio, R Markdown), Python, Tableau, GitHub, Visual Studio Code
+- R (RStudio, R Markdown), Python, SQL, Tableau, GitHub, Visual Studio Code 
 
 ### Languages
 
 - English (fluent)
+- Fante
 
 ### Skills
 
@@ -47,6 +48,6 @@ I also completed a Google certification course in Data Analytics in December 202
 
 <br>
 
-{{< button href="/cv.pdf" target="_self" >}}
+{{< button href="/blogsite/files/cv.pdf" target="_self" >}}
 Download CV
 {{< /button >}}
